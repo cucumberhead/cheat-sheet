@@ -1,0 +1,12 @@
+git init
+git clone
+git status
+git log (--graphed --oneline) (can add multiple branches)
+git diff (default uncomitted and comitted)
+git add (. everything)
+git commit (-m)
+git reset --hard
+git branch (-d deletes branch)
+git checkout (-b new_branch_name is equiv. to git branch new_b and git checkout new_b)
+git merge (master) (exp)
+git show (differences with parent commit)
